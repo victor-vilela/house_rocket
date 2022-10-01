@@ -117,10 +117,10 @@ A visualização: Um histograma com cada atributo definido
 	
 ## 3. Resultado das análises
 
-1. Quais imóveis a House Rocket deveria comprar ?
+1. Quais imóveis a House Rocket deveria comprar ?<br>
 R: Preferência de casas que contém de 2 a 3 quartos e vista para o mar.
 
-2. A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças? Qual o incremento no preço dado por cada opção de reforma?
+2. A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças? Qual o incremento no preço dado por cada opção de reforma?<br>
 R: As reformas tem gerado um aumento de 17% no preço dos imóveis.
 
 ## 4. Conclusão
